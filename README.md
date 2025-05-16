@@ -32,4 +32,4 @@ pip install -r requirements.txt
 ## 🖼 UI Preview
 
 ### 🔹 Main Interface
-![Preview](https://github.com/MominKhan9/pdf-qr-drive-uploader/blob/main/screenshots/ui-preview.png)
+![Preview](https://raw.githubusercontent.com/MominKhan9/pdf-qr-drive-uploader/main/screenshots/ui-preview.png)

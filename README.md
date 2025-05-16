@@ -9,6 +9,7 @@ A powerful and user-friendly desktop application built with Python that allows u
 
 ---
 
+
 ## 🚀 Features
 
 - ✅ **Drag and Drop Support** – Effortlessly drop your PDFs into the app.
@@ -32,4 +33,4 @@ pip install -r requirements.txt
 ## 🖼 UI Preview
 
 ### 🔹 Main Interface
-![Preview](https://raw.githubusercontent.com/MominKhan9/pdf-qr-drive-uploader/main/screenshots/ui-preview.png)
+![ui-preview](https://github.com/user-attachments/assets/326684dd-d895-4652-919a-89c61122ff8c)

@@ -28,3 +28,8 @@ A powerful and user-friendly desktop application built with Python that allows u
 
 ```bash
 pip install -r requirements.txt
+
+## 🖼 UI Preview
+
+### 🔹 Main Interface
+![App UI](screenshots/ui-preview.png)

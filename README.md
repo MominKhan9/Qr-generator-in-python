@@ -32,4 +32,4 @@ pip install -r requirements.txt
 ## 🖼 UI Preview
 
 ### 🔹 Main Interface
-![App UI](screenshots/ui-preview.png)
+![Preview](screenshots/ui-preview.png)
